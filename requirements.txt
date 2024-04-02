@@ -1,4 +1,4 @@
-flask==3.0.2
+flask
 flask-smorest
 python-dotenv
 sqlalchemy
@@ -6,3 +6,4 @@ flask-sqlalchemy
 flask-jwt-extended
 passlib
 flask-migrate
+marshmallow
